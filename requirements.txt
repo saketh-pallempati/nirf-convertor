@@ -1,0 +1,8 @@
+tabula
+PyPDF2
+jpype
+pandas
+numpy
+fastapi
+uvicorn
+python-multipart
